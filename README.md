@@ -42,7 +42,8 @@ Tenho 20 anos, sou de São Paulo/SP e sou apaixonada por confeitaria e felinos! 
 ##
 <p align="center">
 <a href="https://github.com/gabstxr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabstxr&show_icons=true&bg_color=00000000"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabstxr&layout=compact&langs_count=8&bg_color=00000000"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=gabstxr&show_icons=true&bg_color=00000000"/>
+  
+ <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabstxr&layout=compact&bg_color=00000000"/>
 </a>
 </p>
