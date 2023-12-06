@@ -3,14 +3,12 @@
 </br>
 </br>
 <div dsplay="inline-block">
- 
+
  <h1 align="left">Gabrielle Teixeira</h1>
   <a href="https://www.linkedin.com/in/geovannagabrielle">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="60px" src="https://i.ibb.co/Q974Wv2/icons8-linkedin-100.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
-
-
 
 </br>
 </br>
