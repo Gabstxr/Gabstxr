@@ -1,4 +1,4 @@
-<img align="right" width="200" style="margin-top:-20px" src="https://i.ibb.co/yF4Ckgv/Gabs-Git-Hub.png" alt="Gabs-Git-Hub" border="0"></a>>
+<img align="right" width="200" style="margin-top:-20px" src="https://i.ibb.co/yF4Ckgv/Gabs-Git-Hub.png" alt="Gabs-Git-Hub" border="0"></a>
 
 </br>
 </br>
