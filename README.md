@@ -1,4 +1,4 @@
-<img align="right" width="200" style="margin-top:-20px" src="https://i.ibb.co/fYR4ZcT/GabsIcon.png">
+<img align="right" width="200" style="margin-top:-20px" src="https://i.ibb.co/yF4Ckgv/Gabs-Git-Hub.png" alt="Gabs-Git-Hub" border="0"></a>>
 
 </br>
 </br>
@@ -9,8 +9,6 @@
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
-
-
 
 
 
@@ -48,7 +46,7 @@ Tenho 20 anos, sou de São Paulo/SP e sou apaixonada por confeitaria e felinos! 
 ##
 <p align="center">
 <a href="https://github.com/gabstxr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabstxr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabstxr&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabstxr&show_icons=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabstxr&layout=compact&langs_count=8&bg_color=00000000"/>
 </a>
 </p>
