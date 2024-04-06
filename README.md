@@ -1,49 +1,23 @@
-<img align="right" width="200" style="margin-top:-20px" src="https://i.ibb.co/yF4Ckgv/Gabs-Git-Hub.png" alt="Gabs-Git-Hub" border="0"></a>
+<h1 align="center">Hi 👋, I'm Gabrielle Teixera</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
+<img align="right" alt="Coding" width="250" src="https://c.tenor.com/DimzPZMypFcAAAAd/tenor.gif">
 
-<div dsplay="inline-block">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabstxr&label=Profile%20views&color=980eb4&style=flat" alt="gabstxr" /> </p>
 
- <h1 align="left">Gabrielle Teixeira</h1>
-  <a href="https://www.linkedin.com/in/geovannagabrielle">
-    <img width="60px" src="https://i.ibb.co/Q974Wv2/icons8-linkedin-100.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div>
+- 🔭 I’m currently working on **CTracker**
 
-</br>
-</br>
+- 🌱 I’m currently learning **Python, Flutter,**
 
-## Hello, Devs!!
+- 📫 How to reach me **geoogabrielle@gmail.com**
 
-Tenho 20 anos, sou de São Paulo/SP e sou apaixonada por confeitaria e felinos! Sou aventureira no universo da programação, criadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais vou gostando!  ❤
-
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/geovannagabrielle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geovannagabrielle" height="30" width="40" /></a>
 </p>
 
-### 🖥️ Tecnologias e Ferramentas em aprendizagem: 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
-</br>
-</br>
-<div display="inline-block">
- <p align="left">📚 Tenho estudado Java, Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
- <p align="left">☕🎮 Gosto de jogos de tabuleiro e video game (mesmo sendo ruim em todos).</p>
-</div>
-
-
-
-##
-<p align="center">
-<a href="https://github.com/gabstxr">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=gabstxr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple"/>
- 
- <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabstxr&layout=compact&theme=midnight-purple"/>
-</a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabstxr&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="gabstxr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabstxr&show_icons=true&theme=midnight-purple&locale=en" alt="gabstxr" /></p>
